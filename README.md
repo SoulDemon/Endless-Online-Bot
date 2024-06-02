@@ -68,7 +68,7 @@ Here are two GIFs demonstrating the bot working correctly:
 
 2. Performing an action based on the detected color:
 
-![Bot Performing Action]([https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Showing.gif?raw=true])
+![Bot Performing Action](https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Showing.gif?raw=true)
 
 ## License
 

@@ -54,7 +54,7 @@ You can adjust various parameters within the `colorbot.py` script to fine-tune t
 
 ### Development Issue
 
-Below is a GIF illustrating an issue encountered during the development of the bot:
+Below is a GIF illustrating an issue encountered during the development of the bot pathing:
 
 ![Development Issue Pathing](https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Broke.gif?raw=true)
 
@@ -64,11 +64,11 @@ Here are two GIFs demonstrating the bot working correctly:
 
 1. Detecting and moving towards the target color:
 
-![Bot Detecting and Moving]([path/to/your/working1.gif](https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Fixed.gif?raw=true))
+![Bot Detecting and Moving](https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Fixed.gif?raw=true)
 
 2. Performing an action based on the detected color:
 
-![Bot Performing Action]([path/to/your/working2.gif](https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Showing.gif?raw=true))
+![Bot Performing Action]([https://github.com/SoulDemon/Endless-Online-Bot/blob/main/Showing.gif?raw=true])
 
 ## License
 
